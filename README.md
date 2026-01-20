@@ -66,5 +66,7 @@ flutter run
 
 ## Auteurs
 
+**Login 42** : Nicolmar
+
 Projet réalisé dans le cadre de la Piscine Mobile 42, janvier 2026.
 
