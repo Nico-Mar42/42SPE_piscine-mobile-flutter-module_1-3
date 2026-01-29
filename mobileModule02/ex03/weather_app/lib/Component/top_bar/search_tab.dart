@@ -31,7 +31,10 @@ class _SearchTabState extends State<SearchTab> {
         backgroundColor: WidgetStatePropertyAll(Colors.transparent),
         elevation: WidgetStatePropertyAll(0),
         hintText: 'Search location',
-        leading: const Icon(Icons.search),
+        leading: IconButton(onPressed: () {
+          widget.updateLocationState(widget.searchController.text);
+        }, icon: const Icon(Icons.search)),
+        
         onSubmitted: (value) {
           widget.updateLocationState(widget.searchController.text);
         },

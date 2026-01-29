@@ -8,6 +8,31 @@
 
 ---
 
+
+## Objectifs pédagogiques
+
+### Module 1 : Design Graphique d'une App Météo
+
+L'objectif du premier module est de préparer l'aspect graphique d'une application météo. Trois pages principales sont à réaliser :
+
+- **Current** : Affichage de la météo actuelle
+- **Today** : Prévisions détaillées de la journée
+- **Weekly** : Prévisions sur la semaine
+
+Ce module se concentre sur la conception UI/UX, la navigation entre pages et la structuration visuelle de l'application.
+
+### Module 2 : Fonctionnalités GPS & API Open-Meteo
+
+Le second module vise à intégrer des fonctionnalités avancées :
+
+- Utilisation des coordonnées GPS du téléphone pour localiser l'utilisateur
+- Récupération des informations météo via l'API Open-Meteo
+- Recherche météo par ville (saisie utilisateur ou géolocalisation)
+
+Ce module met l'accent sur l'interaction avec les capteurs du téléphone, la gestion des permissions, et la consommation d'API externes.
+
+---
+
 ## Structure du projet
 
 Ce dépôt contient plusieurs modules de la piscine mobile, chacun avec ses propres exercices et applications :
