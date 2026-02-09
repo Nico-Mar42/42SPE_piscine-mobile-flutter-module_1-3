@@ -86,7 +86,7 @@ flutter run
 	<img src="./screen/module 2/screen module 2 3.png" width="30%" />
 </div>
 
-### Module 2
+### Module 3
 
 <div align="center">
 	<img src="./screen/module 3/screen module 3 1.png" width="30%" />
