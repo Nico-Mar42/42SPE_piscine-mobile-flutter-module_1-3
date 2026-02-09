@@ -11,9 +11,9 @@
 
 ## Objectifs pédagogiques
 
-### Module 1 : Design Graphique d'une App Météo
+### Module 1 : Design basic d'une App Météo
 
-L'objectif du premier module est de préparer l'aspect graphique d'une application météo. Trois pages principales sont à réaliser :
+L'objectif du premier module est de préparer l'aspect de base d'une application météo. Trois pages principales sont à réaliser :
 
 - **Current** : Affichage de la météo actuelle
 - **Today** : Prévisions détaillées de la journée
@@ -31,6 +31,16 @@ Le second module vise à intégrer des fonctionnalités avancées :
 
 Ce module met l'accent sur l'interaction avec les capteurs du téléphone, la gestion des permissions, et la consommation d'API externes.
 
+### Module 3 : Finaliser le design
+
+Le troisième module vise à finaliser l'application pour lui donner sont design final :
+
+- Ajouter un fond qui n'empèche pas la lecture des informations
+- Ajouter des graphique pour représenter l'evolution des température dans le temps
+- Rendre plus intuitive la lecture des données
+
+Ce module met l'accent comment crée des graphique, et sur l'UI/UX.
+
 ---
 
 ## Structure du projet
@@ -39,6 +49,7 @@ Ce dépôt contient plusieurs modules de la piscine mobile, chacun avec ses prop
 
 - **mobileModule01** : Exercices et projets du module 1
 - **mobileModule02** : Exercices et projets du module 2
+- **mobileModule03** : Exercices et projets du module 3
 - **screen/** : Captures d'écran illustrant les modules
 
 Chaque module contient des sous-dossiers pour chaque exercice (ex00, ex01, ...), avec leur propre application Flutter/Dart.
@@ -75,6 +86,14 @@ flutter run
 	<img src="./screen/module 2/screen module 2 3.png.png" width="30%" />
 </div>
 
+### Module 2
+
+<div align="center">
+	<img src="./screen/module 3/screen module 3 1.png" width="30%" />
+	<img src="./screen/module 3/screen module 3 2.png.png" width="30%" />
+	<img src="./screen/module 3/screen module 3 3.png.png" width="30%" />
+</div>
+
 ---
 
 ## Organisation détaillée
@@ -83,9 +102,12 @@ flutter run
 	- weather_app/ : Application météo, code source, tests, etc.
 - **mobileModule02/**
 	- ex00/, ex01/, ex02/, ex03/ : Exercices avec leur propre weather_app/
+- **mobileModule03/**
+	- ex00/ : Application météo, code source, tests, etc/
 - **screen/**
 	- module 1/ : Captures d'écran du module 1
 	- module 2/ : Captures d'écran du module 2
+	- module 3/ : Captures d'écran du module 3
 
 ---
 
