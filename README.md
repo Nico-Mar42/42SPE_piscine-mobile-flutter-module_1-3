@@ -82,16 +82,16 @@ flutter run
 
 <div align="center">
 	<img src="./screen/module 2/screen module 2 1.png" width="30%" />
-	<img src="./screen/module 2/screen module 2 2.png.png" width="30%" />
-	<img src="./screen/module 2/screen module 2 3.png.png" width="30%" />
+	<img src="./screen/module 2/screen module 2 2.png" width="30%" />
+	<img src="./screen/module 2/screen module 2 3.png" width="30%" />
 </div>
 
 ### Module 2
 
 <div align="center">
 	<img src="./screen/module 3/screen module 3 1.png" width="30%" />
-	<img src="./screen/module 3/screen module 3 2.png.png" width="30%" />
-	<img src="./screen/module 3/screen module 3 3.png.png" width="30%" />
+	<img src="./screen/module 3/screen module 3 2.png" width="30%" />
+	<img src="./screen/module 3/screen module 3 3.png" width="30%" />
 </div>
 
 ---
